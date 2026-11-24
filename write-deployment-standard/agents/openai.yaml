@@ -1,0 +1,4 @@
+interface:
+  display_name: "部署标准文档编写"
+  short_description: "编写与修订 Word、Markdown 部署标准，核对完整配置、特殊场景和操作结果"
+  default_prompt: "使用 $write-deployment-standard，根据提供的产品资料和现有文件编写或修订部署标准，按交付格式排版并核对配置和操作结果。"
