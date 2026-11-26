@@ -1,0 +1,4 @@
+interface:
+  display_name: "飞书 CLI"
+  short_description: "通过飞书官方 CLI 读取文档、整理任务多维表格，并将表格迁入知识库"
+  default_prompt: "用 $feishu-cli 读取这篇飞书文档，先整理任务多维表格方案。"
