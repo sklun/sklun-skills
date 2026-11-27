@@ -5,7 +5,7 @@ description: 使用本机飞书官方 lark-cli 定位和操作云文档、多维
 
 # 飞书 CLI
 
-优先使用本机 `lark-cli`。用 `command -v lark-cli` 检查入口。macOS 下若已安装到 `/opt/homebrew/bin/lark-cli` 且当前 shell 的 `PATH` 缺少该目录，只为本次命令补充路径。
+飞书操作仅使用本机 `lark-cli`。先通过当前帮助、schema 和官方技能确认能力；CLI 不能满足时，说明缺少的具体能力和已完成范围，反馈用户评估，不改用浏览器或桌面界面，不将替代方案当作已完成。用 `command -v lark-cli` 检查入口。macOS 下若已安装到 `/opt/homebrew/bin/lark-cli` 且当前 shell 的 `PATH` 缺少该目录，只为本次命令补充路径。
 
 ## 按操作选择官方指南
 
